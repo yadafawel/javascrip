@@ -9,14 +9,13 @@ plusieur ligne
 
 // décaler une variable en Js 
 // var Prenom;
+// var Prenom = "yadaf";
 
 // var nom;
 //  var nom = "Awel";
 // -- 2: Affecter une valeur à variable 
 
-// Prenom="Yadaf";
 
-// var Prenom = "Yadaf";
 
 // --3: Une instruction se termine TJOURs par un poin vergule, aussi il est possible d'écrir plusieurs intuructionsur une seule ligne
 // int_1;
@@ -122,3 +121,4 @@ console.log(nb_en_letters);
 console.log(typeof nb_en_letters);
 
 // Fin
+
